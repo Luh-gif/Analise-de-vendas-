@@ -1,6 +1,7 @@
 ## 01_Analise_de_Vendas
 **Objetivo:**  
 Analisar os dados de vendas de uma empresa fictícia para gerar insights sobre performance de produtos, receita e tendências de vendas.  
+- Os dashbords estao dentro do  `Relatório de Análise de Vendas.docx` – Documento com insights -
 
 **Etapas realizadas:**  
 - Carregamento e exploração dos dados brutos (`Dados de vendas Brutos.csv`).  
@@ -17,4 +18,3 @@ Analisar os dados de vendas de uma empresa fictícia para gerar insights sobre p
 
 **Tecnologias / Bibliotecas:**  
 `pandas`, `numpy`, `matplotlib`, `seaborn`, `LinearRegression`, `train_test_split`, `joblib`, `tkinter`, `askopenfilename`.
-Os dashbords estao dentro do  `Relatório de Análise de Vendas.docx` – Documento com insights. 
